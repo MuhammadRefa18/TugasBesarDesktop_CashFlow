@@ -1,0 +1,16 @@
+
+1. Download file nya terlebih dahulu
+2. Kemudian ekstrak file yang telah didownload
+3. Buat database mysql dengan nama "manajemen_keuangan", lalu import database "manajemen_keuangan.sql".
+4. Setelah database berhasil diimport, jalankan programnya yang berada di dalam folder "TugasBesarDesktop" -> "dist",
+   lalu klik dua kali pada file yang bernama "TubesDesktop".
+5. ketika aplikasi tersebut berhasil dijalankan maka akan terlihat tampilannya.
+6. Kemudian masukkan pemasukan pada kolom pemasukan dan masukkan keterangan pada kolom keterangan.
+   setelah itu klik "OK" lalu data akan dikirim ke database, dan hasil dari input pada kolom pemasukan akan dijumlahkan,
+   dan hasil input tadi akan masuk kedalam tabel pemasukan, serta nominal pemasukan akan masuk kedalam kolom pemasukan bulan ini.
+7. Masukkan pengeluaran pada kolom pengeluaran dan masukkan keterangan pada kolom keterangan.
+   setelah itu klik "OK" lalu data akan dikirim ke database, dan hasil dari input pada kolom pengeluaran akan dijumlahkan,
+   dan hasil input tadi akan masuk kedalam tabel pengeluaran, serta nominal pengeluaran akan masuk kedalam kolom pengeluaran bulan ini.
+8. Untuk tombol "hitung" digunakan untuk menampilkan sisa uang yang diambil dari data kolom pemasukan bulan ini dikurangi dengan pengeluaran bulan ini.
+9. Dan untuk tombol "Tampilkan DIagram" untuk menampilkan diagram pemasukan dan pengeluaran.
+10.Jika ingin keluar aplikasi kita tinggal klik tombol "X" di pojok kanan atas.
